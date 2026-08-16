@@ -2,7 +2,7 @@
 
 ## Dicing an Onion, the Mathematically Optimal Way
 
-El webstory que escogí se llama [*Dicing an Onion, the Mathematically Optimal Way*](https://pudding.cool/2025/08/onions/), de **The Pudding**. Revisé algunos ejemplos en BBC, National Geographic y The Pudding y este fue mi favorito, principalmente porque era el mas interactivo y entretenido de leer. Aún cuando parecía algo simple, el autor lo desarrolló de manera novedosa e interesante. 
+El webstory que escogí se llama [*Dicing an Onion, the Mathematically Optimal Way*](https://pudding.cool/2025/08/onions/), de **The Pudding**. Revisé algunos ejemplos en BBC, National Geographic y The Pudding y este fue mi favorito, principalmente porque era el mas interactivo y entretenido de leer. Aún cuando parecía ser un tema simple, el autor lo desarrolló de manera novedosa e interesante. 
 
 FOTO WEB
 

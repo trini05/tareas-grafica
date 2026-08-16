@@ -14,12 +14,15 @@ A partir de esta pregunta, la historia web analiza distintas técnicas de corte 
 
 ### 1. Descipción de la historia
 
-* La web parte de una situación cotidiana: una cortar una 
-* punto 2
+* La web tiene como punto de partida la situación cotidiana de cortar una cebolla. A partir de eso plantea un problema matemático: si queremos conseguir trozos de tamaño similar, ¿qué técnica de corte deberíamos utilizar?
+* Primero se presenta el corte vertical, luego el radial y son comparados utilizando la desviación estándar relativa del tamaño de los trozos. Mientras menor es el porcentaje de la desviación, más uniformes son los pedazos. *uniforme entendido como similar.
+* Después se introduce una tercera posibilidad: hacer los cortes radiales apuntando a un determinado punto de la cebolla, con eso el autor descubre que la técnica puede mejorar consierablemente mientras disminuye la esviación estándar.
+* Finalmente, la investigación analiza cerca de 19mil combinaciones posibles para establecer cuáles son las técnicas matemáticamente más uniformes. 
+* Y luego de toda la investigación matemática, se señala que la "uniformidad perfecta" importa más en debates de internet que al momento de cocinar.
 
 ### 2. ¿Por qué me pareció interesante?
 
-* punto 1
+* Lo que me pareció más interesante 
 * punto 2
 
 ### 3. Aspectos que destacaría 

@@ -2,13 +2,13 @@
 
 ## *Dicing an Onion, the Mathematically Optimal Way*
 
-El webstory que escogí se llama [*Dicing an Onion, the Mathematically Optimal Way*](https://pudding.cool/2025/08/onions/), de **The Pudding**. Para escogrlo, revisé algunos ejemplos de webstories publicadas en BBC, National Geographic y The Pudding. Finalmente este fue mi favorito, principalmente porque me pareció que era el mas interactivo y entretenido de leer. Aunque a primera vista, pareciera ser que aborda un tema simple y cotidiano, el autor y sus colaboradores lo desarrollaron de una manera novedosa e interesante, usando datos, matemáticas y recursos interactivos.
+El webstory que escogí se llama [*Dicing an Onion, the Mathematically Optimal Way*](https://pudding.cool/2025/08/onions/), de **The Pudding**. Antes de elegirlo, revisé algunos ejemplos de webstories publicadas en BBC, National Geographic y The Pudding. Este fue mi favorito principalmente porque me pareció que era el mas interactivo y entretenido de leer. Aunque a primera vista pareciera ser que aborda un tema simple y cotidiano, el autor y sus colaboradores logran desarrollarlo de una manera novedosa e interesante, usando datos y matemáticas.
 
 FOTO WEB
 
 ![](/tarea-1/fotos/estadio.png)
 
-La pregunta central de este webstory es bastante concreta: ¿cuál es la mejor manera de cortar una cebolla para conseguir trozos lo mas uniformes posible?
+**La pregunta central de este webstory es bastante concreta: ¿cuál es la mejor manera de cortar una cebolla para conseguir trozos lo mas uniformes posible?**
 
 A partir de esta pregunta, la historia web analiza distintas técnicas de corte y utiliza las matemáticas para compararlas. De esta manera, un problema cotidiano se transforma en una investigación basada en datos.
 

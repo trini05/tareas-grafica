@@ -6,7 +6,7 @@ El webstory que escogí se llama [*Dicing an Onion, the Mathematically Optimal W
 
 FOTO WEB
 
-![](C:\Users\TRINI\Documents\GitHub\tareas-grafica\tarea-1\fotos\estadio.png)
+![](tarea-1/fotos/estadio.png)
 
 La pregunta central de este webstory es bastante concreta: ¿cuál es la mejor manera de cortar una cebolla para conseguir trozos lo mas uniformes posible?
 

@@ -22,8 +22,12 @@ A partir de esta pregunta, la historia web analiza distintas técnicas de corte 
 
 ### 2. ¿Por qué me pareció interesante?
 
-* Lo que me pareció más interesante 
-* punto 2
+* Lo que me pareció más interesante es que esto parte de una pregunta muy simple y casi absurda, pero la lleva progresivamente hacia un análisis matempatico complejo. Siento que la estructura narrativa funciona como una especie de investigación paso a paso. 
+* Además, la web no entrega la respuesta inmediatamente; va probando distintas alternativas. Esto genera una sensación de descubrimiento en quien lee, el usuario va llegando a la conclusión final junto con la investigación.
+* Otro de los aspectos que destacaría del webstory es el alto nivel de interacción con el usuario. La página no se limita a mostrar los resultados, permite que el lector explore y compruebe por sí mismo cómo funcionan las diferentes técnicas de corte expuestas. Por ejemplo, a través de elementos interactivos la web permite modificar variables como la cantidad de cortes y observar cómo esto afecta al tamaño y la uniformidad de los trozos de cebolla. Con esto, el usuario tiene un rol más activo y los resultados son más visuales y fáciles de comprender.
+* Valoro que en vez de presentar las matemáticas únicamente como cifras o gráficos tradicionales, el webstory utiliza repesentaciones visuales de la propia cebolla para mostrar cómo se distribuyen los cortes y los trozos. Además, permiten comparar de manera clara los resultados obtenidos mediante distintas técnicas y visualizar cómo cambian cuando se modifican las variables. 
+* También quería destacar el uso de algunos elementos gráficos y que las letras de los títulos utilizados a lo largo de la página tengan formas relacionadas con las cebollas, lo que aporta para mantener una estética coherente con el tema. 
+* 
 
 ### 3. Aspectos que destacaría 
 

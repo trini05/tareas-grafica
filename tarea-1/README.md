@@ -28,11 +28,11 @@ A partir de esta pregunta, la historia web analiza distintas técnicas de corte 
 * Otro de los aspectos que destacaría del webstory es el alto nivel de interacción con el usuario. La página no se limita a mostrar los resultados, permite que el lector explore y compruebe por sí mismo cómo funcionan las diferentes técnicas de corte expuestas. Por ejemplo, a través de elementos interactivos la web permite modificar variables como la cantidad de cortes y observar cómo esto afecta al tamaño y la uniformidad de los trozos de cebolla. Con esto, el usuario tiene un rol más activo y los resultados son más visuales y fáciles de comprender.
 * Valoro que en vez de presentar las matemáticas únicamente como cifras o gráficos tradicionales, el webstory utiliza repesentaciones visuales de la propia cebolla para mostrar cómo se distribuyen los cortes y los trozos. Además, permiten comparar de manera clara los resultados obtenidos mediante distintas técnicas y visualizar cómo cambian cuando se modifican las variables. 
 * También quería destacar el uso de algunos elementos gráficos y que las letras de los títulos utilizados a lo largo de la página tengan formas relacionadas con las cebollas, lo que aporta para mantener una estética coherente con el tema. 
-* 
+* Lo último que me gustaría destacar es el equilibrio que tiene entre texto y elementos visuales. El texto es breve y cumple principalmente la función de explicar qué se está observando y bajo qué parámetros. Las imágenes, animaciones, gráficos y elementos interactivos, por su parte, permiten visualizar esta información y comprenderla de manera más intuitiva.
 
 ### 4. Efectividad para transmitir la información
 
-* punto 1
-* punto 2
+* Considero que el webstory es efectivo para transmitir la información, principalmente porque logra explicar un problema matemático relativamente complejo de una manera simple y entretenida. La información se presenta de forma progresiva, por lo que el usuario no recibe todos los datos al mismo tiempo, sino que los va comprendiendo a medida que avanza en la historia.
+* Además, las visualizaciones cumplen un rol fundamental, ya que permiten entender conceptos que podrían ser difíciles de explicar únicamente mediante texto. Por ejemplo, observar cómo cambian los trozos de cebolla al modificar la cantidad o el tipo de corte permite comprender de manera más intuitiva la relación entre las distintas variables y la uniformidad de los pedazos. El webstory logra que el usuario comprenda la investigación sin sentir que está leyendo una explicación matemática tradicional.
 
 *no olvidar **subir** link del repo*

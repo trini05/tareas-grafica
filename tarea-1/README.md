@@ -50,7 +50,7 @@ A partir de esta pregunta, la historia web analiza distintas técnicas de corte 
 
 ### 4. Efectividad para transmitir la información
 
-* Considero que el webstory es efectivo para transmitir la información, principalmente porque logra explicar un problema matemático relativamente complejo de una manera simple y entretenida. La información se presenta de forma progresiva, por lo que el usuario no recibe todos los datos al mismo tiempo, sino que los va comprendiendo a medida que avanza en la historia.
-* Además, las visualizaciones cumplen un rol fundamental, ya que permiten entender conceptos que podrían ser difíciles de explicar únicamente mediante texto. Por ejemplo, observar cómo cambian los trozos de cebolla al modificar la cantidad o el tipo de corte permite comprender de manera más intuitiva la relación entre las distintas variables y la uniformidad de los pedazos. El webstory logra que el usuario comprenda la investigación sin sentir que está leyendo una explicación matemática tradicional.
+* El webstory que escogí transmite el mensaje de forma efectiva, principalmente porque logra explicar un problema matemático relativamente complejo de una manera simple y entretenida. La información se presenta progresivamente, por lo que el usuario no recibe todos los datos al mismo tiempo, sino que los va comprendiendo a medida que avanza en la historia.
+* Además, las visualizaciones cumplen un rol fundamental, ya que permiten entender conceptos que podrían ser difíciles de explicar únicamente mediante texto. Por ejemplo, observar cómo cambian los trozos de cebolla al modificar la cantidad o el tipo de corte permite comprender de manera más intuitiva la relación entre las distintas variables y la uniformidad de los pedazos. **El webstory logra que el usuario comprenda la investigación sin sentir que está leyendo una explicación matemática tradicional y rebuscada.**
 
 *no olvidar **subir** link del repo*

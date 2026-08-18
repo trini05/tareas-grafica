@@ -8,7 +8,7 @@ El webstory que escogí se llama [*Dicing an Onion, the Mathematically Optimal W
 
 **La pregunta central de este webstory es bastante concreta: ¿Cuál es la mejor manera de cortar una cebolla para conseguir trozos lo mas uniformes posible?**
 
-A partir de esta pregunta, la historia web analiza distintas técnicas de corte y utiliza las matemáticas para compararlas. De esta manera, un problema cotidiano se transforma en una investigación basada en datos.
+A partir de esta pregunta, la historia web analiza distintas técnicas de corte y utiliza las matemáticas para compararlas. De esta manera, un problema del día a día se transforma en una investigación basada en datos.
 
 ![](/tarea-1/fotos/onion-3.PNG)
 
@@ -33,7 +33,7 @@ A partir de esta pregunta, la historia web analiza distintas técnicas de corte 
 
 ### 2. ¿Por qué me pareció interesante? y aspectos que destacaría
 
-* Lo que me pareció más interesante es que esto parte de una pregunta muy simple y casi absurda, pero la lleva progresivamente hacia un análisis matempatico complejo. Siento que la estructura narrativa funciona como una especie de investigación paso a paso. 
+* Lo que me pareció más interesante es que la investigación parte de una pregunta muy simple y casi absurda, pero la lleva progresivamente hacia un análisis matemático complejo. Siento que la estructura narrativa funciona como una especie de investigación paso a paso. 
 * Además, la web no entrega la respuesta inmediatamente; va probando distintas alternativas. Esto genera una sensación de descubrimiento en quien lee, el usuario va llegando a la conclusión final junto con la investigación.
 * Otro de los aspectos que destacaría del webstory es el alto nivel de interacción con el usuario. La página no se limita a mostrar los resultados, permite que el lector explore y compruebe por sí mismo cómo funcionan las diferentes técnicas de corte expuestas. Por ejemplo, a través de elementos interactivos la web permite modificar variables como la cantidad de cortes y observar cómo esto afecta al tamaño y la uniformidad de los trozos de cebolla. Con esto, el usuario tiene un rol más activo y los resultados son más visuales y fáciles de comprender.
 
@@ -46,11 +46,9 @@ A partir de esta pregunta, la historia web analiza distintas técnicas de corte 
 
 ![](/tarea-1/fotos/onion-10.PNG)
 
-* Lo último que me gustaría destacar es el equilibrio que tiene entre texto y elementos visuales. El texto es breve y cumple principalmente la función de explicar qué se está observando y bajo qué parámetros. Las imágenes, animaciones, gráficos y elementos interactivos, por su parte, permiten visualizar esta información y comprenderla de manera más intuitiva.
+* Lo último que me gustaría destacar es el equilibrio que tiene entre texto y elementos visuales. El texto es breve y cumple principalmente la función de explicar qué se está observando y bajo qué parámetros, guiando al lector. Las imágenes, animaciones, gráficos y elementos interactivos, por su parte, permiten visualizar esta información y comprenderla de manera más fácil e intuitiva.
 
 ### 4. Efectividad para transmitir la información
 
-* El webstory que escogí transmite el mensaje de forma efectiva, principalmente porque logra explicar un problema matemático relativamente complejo de una manera simple y entretenida. La información se presenta progresivamente, por lo que el usuario no recibe todos los datos al mismo tiempo, sino que los va comprendiendo a medida que avanza en la historia.
-* Además, las visualizaciones cumplen un rol fundamental, ya que permiten entender conceptos que podrían ser difíciles de explicar únicamente mediante texto. Por ejemplo, observar cómo cambian los trozos de cebolla al modificar la cantidad o el tipo de corte permite comprender de manera más intuitiva la relación entre las distintas variables y la uniformidad de los pedazos. **El webstory logra que el usuario comprenda la investigación sin sentir que está leyendo una explicación matemática tradicional y rebuscada.**
-
-*no olvidar **subir** link del repo*
+* El webstory escogido transmite el mensaje de forma efectiva, principalmente porque logra explicar un problema con datos relativamente complejos de una manera simple y entretenida. La información se presenta progresivamente, por lo que el usuario no recibe todos los datos al mismo tiempo, sino que los va comprendiendo a medida que avanza en la historia.
+* Además, las visualizaciones cumplen un rol fundamental, ya que permiten entender conceptos que podrían ser difíciles de explicar únicamente mediante texto. Por ejemplo, observar cómo cambian los trozos de cebolla al modificar la cantidad o el tipo de corte permite comprender de mejor manera la relación entre las distintas variables y la uniformidad de los pedazos. **El webstory logra que el usuario comprenda la investigación sin sentir que está leyendo una explicación matemática tradicional y rebuscada.**

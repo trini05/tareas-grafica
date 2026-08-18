@@ -48,7 +48,7 @@ A partir de esta pregunta, la historia web analiza distintas técnicas de corte 
 
 * Lo último que me gustaría destacar es el equilibrio que tiene entre texto y elementos visuales. El texto es breve y cumple principalmente la función de explicar qué se está observando y bajo qué parámetros, guiando al lector. Las imágenes, animaciones, gráficos y elementos interactivos, por su parte, permiten visualizar esta información y comprenderla de manera más fácil e intuitiva.
 
-### 4. Efectividad para transmitir la información
+### 3. Efectividad para transmitir la información
 
 * La webstory escogida transmite el mensaje de forma efectiva, principalmente porque logra explicar un problema con datos relativamente complejos de una manera simple y entretenida. La información se presenta progresivamente, por lo que el usuario no recibe todos los datos al mismo tiempo, sino que los va comprendiendo a medida que avanza en la historia.
 * Además, las visualizaciones cumplen un rol fundamental, ya que permiten entender conceptos que podrían ser difíciles de explicar únicamente mediante texto. Por ejemplo, observar cómo cambian los trozos de cebolla al modificar la cantidad o el tipo de corte permite comprender de mejor manera la relación entre las distintas variables y la uniformidad de los pedazos. **La webstory logra que el usuario comprenda la investigación sin sentir que está leyendo una explicación matemática tradicional y rebuscada.**
